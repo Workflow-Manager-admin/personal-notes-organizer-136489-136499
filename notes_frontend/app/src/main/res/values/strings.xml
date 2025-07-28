@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">notes_frontend</string>
+    <string name="app_name">Notes</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="my_notes">My Notes</string>
+    <string name="new_note">New Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="delete">Delete</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="create_note">Create Note</string>
+    <string name="back">Back</string>
+    <string name="no_notes">No notes yet!</string>
 </resources>
